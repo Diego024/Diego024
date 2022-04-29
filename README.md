@@ -37,6 +37,7 @@ I've been learning to code for 3 years now in different technologies, but I have
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Diego024" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/diego-pacheco0206/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -47,11 +48,25 @@ I've been learning to code for 3 years now in different technologies, but I have
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Diego024/weather-app-ReactJS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Diego024&repo=weather-app-ReactJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Diego024/movie-zone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Diego024&repo=movie-zone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+    <a href="https://github.com/Diego024/weather-app-ReactJS" align="left">
+        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Diego024&repo=weather-app-ReactJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    </a>
+    <a href="https://github.com/Diego024/movie-zone" align="right">
+        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Diego024&repo=movie-zone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    </a>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Diego024/front-end_test" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Diego024&repo=front-end_test&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Diego024/PlatziVideo-React" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Diego024&repo=PlatziVideo-React&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+    <a href="https://github.com/Diego024/front-end_test" align="left">
+        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Diego024&repo=front-end_test&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    </a>
+    <a href="https://github.com/Diego024/PlatziVideo-React" align="right">
+        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Diego024&repo=PlatziVideo-React&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    </a>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 

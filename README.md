@@ -8,7 +8,7 @@ I've been learning to code for 3 years now in different technologies, but I have
 
 * 🌍  I'm based in El Salvador
 * ✉️  You can contact me at [diego.pacheco020603@gmail.com](mailto:diego.pacheco020603@gmail.com)
-* 🧠  I'm learning React JS
+* 🧠  I'm learning Node JS
 
 ### Skills
 
